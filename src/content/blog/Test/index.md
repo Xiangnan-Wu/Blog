@@ -5,7 +5,7 @@ description: '这是一次尝试'
 tags:
   - Example
   - test
-heroImage: { src: './mountain-9423779_1920.jpg', color: '#4891B2' }
+heroImage: { src: './mountain-9423779_1920.jpg', color: '#40819fff' }
 language: 'Chinese'
 ---
 zheshiyiciceshi
